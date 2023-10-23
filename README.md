@@ -22,7 +22,7 @@ new Menu(
         items:[
             {
                 name: "菜单项1",
-                desc: "Ctrl + A"
+                desc: "Ctrl + A",
                 style:{
                     color: "red"
                 },
@@ -101,7 +101,7 @@ new MyMenuDark(
         items:[
             {
                 name: "菜单项1",
-                desc: "Ctrl + A"
+                desc: "Ctrl + A",
                 children:[
                     // 组
                     {
